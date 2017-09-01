@@ -1,0 +1,25 @@
+2017-08-28 19:28:31,246 ERROR [main] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob).
+2017-08-28 19:28:31,248 ERROR [main] - System.err - log4j:WARN Please initialize the log4j system properly.
+2017-08-29 09:14:12,069  WARN [Worker-25] - ScalaProject - Project demo2 has platform default sourceLevel.
+2017-08-29 09:14:12,071  WARN [Worker-25] - ScalaProject - Project demo2 runs on platform default installation.
+2017-08-29 09:14:17,319  WARN [Worker-30] - ScalaProject - Project demo2 has platform default sourceLevel.
+2017-08-29 09:14:17,326  WARN [Worker-30] - ScalaProject - Project demo2 runs on platform default installation.
+2017-08-29 09:16:36,861  WARN [Worker-31] - ScalaProject - Project demo2 has platform default sourceLevel.
+2017-08-29 09:16:36,861  WARN [Worker-31] - ScalaProject - Project demo2 runs on platform default installation.
+2017-08-29 09:26:30,416  WARN [Worker-23] - ScalaProject - Project demo2 has platform default sourceLevel.
+2017-08-29 09:26:30,417  WARN [Worker-23] - ScalaProject - Project demo2 runs on platform default installation.
+2017-08-29 09:28:16,071  WARN [main] - ScalaProject - Project demo2 has platform default sourceLevel.
+2017-08-29 09:28:16,071  WARN [main] - ScalaProject - Project demo2 runs on platform default installation.
+2017-08-29 09:28:18,713  WARN [Worker-36] - ScalaProject - Project demo2 has platform default sourceLevel.
+2017-08-29 09:28:18,714  WARN [Worker-36] - ScalaProject - Project demo2 runs on platform default installation.
+2017-08-29 09:28:46,981  WARN [Worker-36] - ScalaProject - Project demo2 has platform default sourceLevel.
+2017-08-29 09:28:46,981  WARN [Worker-36] - ScalaProject - Project demo2 runs on platform default installation.
+2017-08-29 09:29:50,506  WARN [main] - ScalaProject - Project demo2 has platform default sourceLevel.
+2017-08-29 09:29:50,506  WARN [main] - ScalaProject - Project demo2 runs on platform default installation.
+2017-08-29 09:33:07,177  WARN [main] - ScalaProject - Project demo2 has platform default sourceLevel.
+2017-08-29 09:33:07,177  WARN [main] - ScalaProject - Project demo2 runs on platform default installation.
+2017-08-29 09:33:09,949  WARN [main] - ScalaProject - Project demo2 has platform default sourceLevel.
+2017-08-29 09:33:09,949  WARN [main] - ScalaProject - Project demo2 runs on platform default installation.
+2017-08-29 09:49:26,451  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-08-29 09:55:22,021  WARN [main] - ScalaProject - Project demo2 has platform default sourceLevel.
+2017-08-29 09:55:22,021  WARN [main] - ScalaProject - Project demo2 runs on platform default installation.

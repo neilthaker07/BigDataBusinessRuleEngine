@@ -1,0 +1,315 @@
+2017-08-29 17:06:11,200 ERROR [main] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob).
+2017-08-29 17:06:11,201 ERROR [main] - System.err - log4j:WARN Please initialize the log4j system properly.
+2017-08-29 17:06:34,661  WARN [main] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:06:34,662  WARN [main] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:06:34,928  WARN [main] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:06:34,929  WARN [main] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:06:35,225  WARN [Worker-1] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:06:35,227  WARN [Worker-1] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:06:39,359  WARN [Worker-1] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:06:39,359  WARN [Worker-1] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:06:50,469  WARN [main] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:06:50,470  WARN [main] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:06:53,968  WARN [main] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:06:53,969  WARN [main] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:06:54,403  WARN [Worker-3] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:06:54,403  WARN [Worker-3] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:07:02,669  WARN [Worker-3] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:07:02,669  WARN [Worker-3] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:07:04,272  WARN [Worker-3] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:07:04,272  WARN [Worker-3] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:07:05,075  WARN [Worker-3] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:07:05,075  WARN [Worker-3] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:07:24,782  WARN [Worker-5] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:07:24,783  WARN [Worker-5] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:07:26,375  WARN [Worker-5] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:07:26,376  WARN [Worker-5] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:07:37,316  WARN [Worker-5] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:07:37,317  WARN [Worker-5] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:07:38,780  WARN [Worker-5] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:07:38,780  WARN [Worker-5] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:07:47,450  WARN [Worker-6] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:07:47,450  WARN [Worker-6] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:07:48,761  WARN [Worker-6] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:07:48,761  WARN [Worker-6] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:08:26,646  WARN [Worker-5] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:08:26,647  WARN [Worker-5] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:08:29,206  WARN [Worker-3] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:08:29,206  WARN [Worker-3] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:08:31,344  WARN [Worker-5] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:08:31,345  WARN [Worker-5] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:18:50,862  WARN [Worker-9] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:18:50,862  WARN [Worker-9] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:18:51,854  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:18:51,855  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:23:54,303  WARN [Worker-3] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:23:54,303  WARN [Worker-3] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:23:59,145  WARN [Worker-3] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:23:59,145  WARN [Worker-3] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:24:12,420  WARN [Worker-12] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:24:12,420  WARN [Worker-12] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:24:13,909  WARN [Worker-12] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:24:13,909  WARN [Worker-12] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:24:26,595  WARN [Worker-8] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:24:26,595  WARN [Worker-8] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:24:27,100  WARN [Worker-10] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:24:27,101  WARN [Worker-10] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:24:27,745  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:24:27,745  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:24:30,328  WARN [Worker-8] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:24:30,328  WARN [Worker-8] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:24:45,885  WARN [Worker-12] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:24:45,885  WARN [Worker-12] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:24:46,089  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:24:46,089  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:26:13,849  WARN [Worker-15] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:26:13,849  WARN [Worker-15] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:26:14,157  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:26:14,157  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:26:33,183  WARN [Worker-3] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:26:33,184  WARN [Worker-3] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:26:33,949  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:26:33,949  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:26:34,203  WARN [Worker-3] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:26:34,203  WARN [Worker-3] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:26:39,397  WARN [Worker-3] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:26:39,397  WARN [Worker-3] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:27:31,276  WARN [Worker-15] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:27:31,276  WARN [Worker-15] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:27:31,798  WARN [Worker-15] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:27:31,798  WARN [Worker-15] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:27:32,860  WARN [Worker-15] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:27:32,861  WARN [Worker-15] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:28:36,833  WARN [Worker-3] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:28:36,834  WARN [Worker-3] - ScalaProject - Project data runs on platform default installation.
+2017-08-29 17:28:39,020  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project data has platform default sourceLevel.
+2017-08-29 17:28:39,020  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project data runs on platform default installation.
+2017-08-30 09:10:15,722  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for data, setting default to 2.12.
+2017-08-30 10:42:25,244 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-30 10:42:25,244 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-30 10:42:25,244 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-30 11:20:51,331 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-30 11:20:51,331 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-30 11:20:51,331 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-30 11:22:37,965 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-30 11:22:37,966 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-30 11:22:57,220  WARN [main] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-08-30 11:22:59,221 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-30 11:22:59,222 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-30 11:22:59,222 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-30 11:43:16,687  WARN [main] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-08-30 11:43:20,362 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-30 11:43:20,364 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-30 11:43:20,364 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-30 16:29:30,125 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-30 16:29:30,126 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-30 16:29:30,126 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-30 16:31:28,497 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-30 16:31:28,497 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-30 16:31:28,497 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-30 16:53:48,776 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-30 16:53:48,776 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-30 16:53:48,776 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-30 17:22:58,949  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-08-31 12:40:26,788 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-31 12:40:26,814 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-31 12:41:05,800 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-31 12:41:05,800 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-31 12:41:05,800 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-31 12:47:02,362 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-31 12:47:02,362 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-31 12:47:02,362 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-31 13:34:38,200 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-31 13:34:38,202 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-31 13:34:38,202 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-31 13:34:38,202 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-31 13:35:49,068 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-31 13:37:21,014  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-08-31 13:39:16,970  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-08-31 13:40:07,353 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-31 13:40:07,353 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-31 13:40:07,353 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-31 13:46:48,658 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-31 13:46:48,658 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-31 13:46:48,659 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-31 13:51:25,436 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-31 13:51:25,436 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-31 13:51:25,437 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-31 13:58:33,171 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.lang.InternalError: Malformed class name
+	at java.lang.Class.getSimpleName(Class.java:1330)
+	at java.lang.Class.isAnonymousClass(Class.java:1411)
+	at org.scalaide.core.internal.logging.log4j.Log4JFacade$Logger$.apply(Log4JFacade.scala:60)
+	at org.scalaide.core.internal.logging.log4j.Log4JFacade.getLogger(Log4JFacade.scala:68)
+	at org.scalaide.logging.HasLogger.logger(HasLogger.scala:19)
+	at org.scalaide.logging.HasLogger.logger$(HasLogger.scala:17)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.logger$lzycompute(JUnit4TestClassesCollector.scala:17)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.logger(JUnit4TestClassesCollector.scala:17)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.getClassSafe(JUnit4TestClassesCollector.scala:82)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.RunWithAnnotationOpt$lzycompute(JUnit4TestClassesCollector.scala:74)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.RunWithAnnotationOpt(JUnit4TestClassesCollector.scala:74)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector$JUnit4TestClassesTraverser.hasRunWithAnnotation(JUnit4TestClassesCollector.scala:59)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector$JUnit4TestClassesTraverser.isTestClass(JUnit4TestClassesCollector.scala:57)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector$JUnit4TestClassesTraverser.$anonfun$isRunnableTestClass$1(JUnit4TestClassesCollector.scala:44)
+	at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.java:12)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2017-08-31 13:58:49,125 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.lang.InternalError: Malformed class name
+	at java.lang.Class.getSimpleName(Class.java:1330)
+	at java.lang.Class.isAnonymousClass(Class.java:1411)
+	at org.scalaide.core.internal.logging.log4j.Log4JFacade$Logger$.apply(Log4JFacade.scala:60)
+	at org.scalaide.core.internal.logging.log4j.Log4JFacade.getLogger(Log4JFacade.scala:68)
+	at org.scalaide.logging.HasLogger.logger(HasLogger.scala:19)
+	at org.scalaide.logging.HasLogger.logger$(HasLogger.scala:17)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.logger$lzycompute(JUnit4TestClassesCollector.scala:17)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.logger(JUnit4TestClassesCollector.scala:17)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.getClassSafe(JUnit4TestClassesCollector.scala:82)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.RunWithAnnotationOpt$lzycompute(JUnit4TestClassesCollector.scala:74)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.RunWithAnnotationOpt(JUnit4TestClassesCollector.scala:74)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector$JUnit4TestClassesTraverser.hasRunWithAnnotation(JUnit4TestClassesCollector.scala:59)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector$JUnit4TestClassesTraverser.isTestClass(JUnit4TestClassesCollector.scala:57)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector$JUnit4TestClassesTraverser.$anonfun$isRunnableTestClass$1(JUnit4TestClassesCollector.scala:44)
+	at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.java:12)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2017-08-31 13:58:52,284 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-31 13:58:52,284 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-31 13:58:52,284 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-31 14:02:26,370 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-31 14:02:26,374 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-31 14:02:26,375 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-31 14:11:21,298 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.lang.InternalError: Malformed class name
+	at java.lang.Class.getSimpleName(Class.java:1330)
+	at java.lang.Class.isAnonymousClass(Class.java:1411)
+	at org.scalaide.core.internal.logging.log4j.Log4JFacade$Logger$.apply(Log4JFacade.scala:60)
+	at org.scalaide.core.internal.logging.log4j.Log4JFacade.getLogger(Log4JFacade.scala:68)
+	at org.scalaide.logging.HasLogger.logger(HasLogger.scala:19)
+	at org.scalaide.logging.HasLogger.logger$(HasLogger.scala:17)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.logger$lzycompute(JUnit4TestClassesCollector.scala:17)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.logger(JUnit4TestClassesCollector.scala:17)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.getClassSafe(JUnit4TestClassesCollector.scala:82)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.RunWithAnnotationOpt$lzycompute(JUnit4TestClassesCollector.scala:74)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.RunWithAnnotationOpt(JUnit4TestClassesCollector.scala:74)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector$JUnit4TestClassesTraverser.hasRunWithAnnotation(JUnit4TestClassesCollector.scala:59)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector$JUnit4TestClassesTraverser.isTestClass(JUnit4TestClassesCollector.scala:57)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector$JUnit4TestClassesTraverser.$anonfun$isRunnableTestClass$1(JUnit4TestClassesCollector.scala:44)
+	at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.java:12)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2017-08-31 14:12:23,853 ERROR [Worker-2] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+2017-08-31 14:12:23,856 ERROR [Worker-2] - System.err - log4j:WARN Please initialize the log4j system properly.
+2017-08-31 14:12:28,710 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.lang.InternalError: Malformed class name
+	at java.lang.Class.getSimpleName(Class.java:1330)
+	at java.lang.Class.isAnonymousClass(Class.java:1411)
+	at org.scalaide.core.internal.logging.log4j.Log4JFacade$Logger$.apply(Log4JFacade.scala:60)
+	at org.scalaide.core.internal.logging.log4j.Log4JFacade.getLogger(Log4JFacade.scala:68)
+	at org.scalaide.logging.HasLogger.logger(HasLogger.scala:19)
+	at org.scalaide.logging.HasLogger.logger$(HasLogger.scala:17)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.logger$lzycompute(JUnit4TestClassesCollector.scala:17)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.logger(JUnit4TestClassesCollector.scala:17)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.getClassSafe(JUnit4TestClassesCollector.scala:82)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.RunWithAnnotationOpt$lzycompute(JUnit4TestClassesCollector.scala:74)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.RunWithAnnotationOpt(JUnit4TestClassesCollector.scala:74)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector$JUnit4TestClassesTraverser.hasRunWithAnnotation(JUnit4TestClassesCollector.scala:59)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector$JUnit4TestClassesTraverser.isTestClass(JUnit4TestClassesCollector.scala:57)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector$JUnit4TestClassesTraverser.$anonfun$isRunnableTestClass$1(JUnit4TestClassesCollector.scala:44)
+	at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.java:12)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2017-08-31 14:12:28,712 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.lang.InternalError: Malformed class name
+	at java.lang.Class.getSimpleName(Class.java:1330)
+	at java.lang.Class.isAnonymousClass(Class.java:1411)
+	at org.scalaide.core.internal.logging.log4j.Log4JFacade$Logger$.apply(Log4JFacade.scala:60)
+	at org.scalaide.core.internal.logging.log4j.Log4JFacade.getLogger(Log4JFacade.scala:68)
+	at org.scalaide.logging.HasLogger.logger(HasLogger.scala:19)
+	at org.scalaide.logging.HasLogger.logger$(HasLogger.scala:17)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.logger$lzycompute(JUnit4TestClassesCollector.scala:17)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.logger(JUnit4TestClassesCollector.scala:17)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.getClassSafe(JUnit4TestClassesCollector.scala:82)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.RunWithAnnotationOpt$lzycompute(JUnit4TestClassesCollector.scala:74)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.RunWithAnnotationOpt(JUnit4TestClassesCollector.scala:74)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector$JUnit4TestClassesTraverser.hasRunWithAnnotation(JUnit4TestClassesCollector.scala:59)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector$JUnit4TestClassesTraverser.isTestClass(JUnit4TestClassesCollector.scala:57)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector$JUnit4TestClassesTraverser.$anonfun$isRunnableTestClass$1(JUnit4TestClassesCollector.scala:44)
+	at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.java:12)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2017-08-31 14:13:20,652 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.lang.InternalError: Malformed class name
+	at java.lang.Class.getSimpleName(Class.java:1330)
+	at java.lang.Class.isAnonymousClass(Class.java:1411)
+	at org.scalaide.core.internal.logging.log4j.Log4JFacade$Logger$.apply(Log4JFacade.scala:60)
+	at org.scalaide.core.internal.logging.log4j.Log4JFacade.getLogger(Log4JFacade.scala:68)
+	at org.scalaide.logging.HasLogger.logger(HasLogger.scala:19)
+	at org.scalaide.logging.HasLogger.logger$(HasLogger.scala:17)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.logger$lzycompute(JUnit4TestClassesCollector.scala:17)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.logger(JUnit4TestClassesCollector.scala:17)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.getClassSafe(JUnit4TestClassesCollector.scala:82)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.RunWithAnnotationOpt$lzycompute(JUnit4TestClassesCollector.scala:74)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.RunWithAnnotationOpt(JUnit4TestClassesCollector.scala:74)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector$JUnit4TestClassesTraverser.hasRunWithAnnotation(JUnit4TestClassesCollector.scala:59)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector$JUnit4TestClassesTraverser.isTestClass(JUnit4TestClassesCollector.scala:57)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector$JUnit4TestClassesTraverser.$anonfun$isRunnableTestClass$1(JUnit4TestClassesCollector.scala:44)
+	at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.java:12)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2017-08-31 14:13:30,754 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.lang.InternalError: Malformed class name
+	at java.lang.Class.getSimpleName(Class.java:1330)
+	at java.lang.Class.isAnonymousClass(Class.java:1411)
+	at org.scalaide.core.internal.logging.log4j.Log4JFacade$Logger$.apply(Log4JFacade.scala:60)
+	at org.scalaide.core.internal.logging.log4j.Log4JFacade.getLogger(Log4JFacade.scala:68)
+	at org.scalaide.logging.HasLogger.logger(HasLogger.scala:19)
+	at org.scalaide.logging.HasLogger.logger$(HasLogger.scala:17)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.logger$lzycompute(JUnit4TestClassesCollector.scala:17)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.logger(JUnit4TestClassesCollector.scala:17)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.getClassSafe(JUnit4TestClassesCollector.scala:82)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.RunWithAnnotationOpt$lzycompute(JUnit4TestClassesCollector.scala:74)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.RunWithAnnotationOpt(JUnit4TestClassesCollector.scala:74)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector$JUnit4TestClassesTraverser.hasRunWithAnnotation(JUnit4TestClassesCollector.scala:59)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector$JUnit4TestClassesTraverser.isTestClass(JUnit4TestClassesCollector.scala:57)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector$JUnit4TestClassesTraverser.$anonfun$isRunnableTestClass$1(JUnit4TestClassesCollector.scala:44)
+	at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.java:12)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2017-08-31 14:13:38,840 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.lang.InternalError: Malformed class name
+	at java.lang.Class.getSimpleName(Class.java:1330)
+	at java.lang.Class.isAnonymousClass(Class.java:1411)
+	at org.scalaide.core.internal.logging.log4j.Log4JFacade$Logger$.apply(Log4JFacade.scala:60)
+	at org.scalaide.core.internal.logging.log4j.Log4JFacade.getLogger(Log4JFacade.scala:68)
+	at org.scalaide.logging.HasLogger.logger(HasLogger.scala:19)
+	at org.scalaide.logging.HasLogger.logger$(HasLogger.scala:17)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.logger$lzycompute(JUnit4TestClassesCollector.scala:17)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.logger(JUnit4TestClassesCollector.scala:17)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.getClassSafe(JUnit4TestClassesCollector.scala:82)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.RunWithAnnotationOpt$lzycompute(JUnit4TestClassesCollector.scala:74)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector.RunWithAnnotationOpt(JUnit4TestClassesCollector.scala:74)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector$JUnit4TestClassesTraverser.hasRunWithAnnotation(JUnit4TestClassesCollector.scala:59)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector$JUnit4TestClassesTraverser.isTestClass(JUnit4TestClassesCollector.scala:57)
+	at org.scalaide.core.internal.launching.JUnit4TestClassesCollector$JUnit4TestClassesTraverser.$anonfun$isRunnableTestClass$1(JUnit4TestClassesCollector.scala:44)
+	at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.java:12)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2017-08-31 14:23:14,659 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-31 14:23:14,660 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException

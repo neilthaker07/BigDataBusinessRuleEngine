@@ -1,0 +1,16 @@
+package org
+
+import org.apache.spark.SparkConf
+import org.apache.spark.SparkContext
+import org.apache.spark.sql.SparkSession
+
+object SampleApp {
+  def main(args: Array[String])
+  {
+    val conf = new SparkConf()//.setAppName("Sample application")
+    val sc = new SparkContext(conf)
+    
+    val sparkSession = SparkSession.builder().master("local").appName("sample")
+    .config("spark.some.","").getOrCreate()
+  }
+}

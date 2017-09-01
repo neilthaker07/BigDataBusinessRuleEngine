@@ -1,0 +1,12 @@
+package org
+
+import org.apache.spark.SparkConf
+import org.apache.spark.SparkContext
+
+object SampleApp {
+  def main(args: Array[String])
+  {
+    val conf = new SparkConf().setAppName("Sample application")
+    val sc = new SparkContext(conf)
+  }
+}

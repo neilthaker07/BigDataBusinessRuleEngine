@@ -1,0 +1,8 @@
+package org
+
+object SampleApp {
+  def main(args: Array[String])
+  {
+    
+  }
+}

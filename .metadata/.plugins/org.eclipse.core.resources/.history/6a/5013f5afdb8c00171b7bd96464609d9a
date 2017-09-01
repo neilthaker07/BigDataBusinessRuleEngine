@@ -1,0 +1,19 @@
+package org
+
+import org.apache.spark.SparkConf
+import org.apache.spark.SparkContext
+import org.apache.spark.sql.SparkSession
+
+object SampleApp {
+  def main(args: Array[String])
+  {
+    val conf = new SparkConf().setMaster("org.SampleApp")
+    val sc = new SparkContext(conf)
+    
+    val sparkSession = SparkSession.builder().master("local").appName("sample").config(conf).getOrCreate()
+    
+    val df1 = sparkSession.read.json("/home/neil/Neil_Work/MS_SJSU/scala_spark_learning/Spark_Scala/git_ws_scala_spark_drools/BigDataBusinessRuleEngine/temp/logs/log1.json")
+    df1.show()
+    
+  }
+}
